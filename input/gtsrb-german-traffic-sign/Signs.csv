@@ -1,44 +1,44 @@
-Code, Sign
-0, speed limit 20
-1, speed limit 30
-2, speed limit 50
-3, speed limit 60
-4, speed limit 70
-5, speed limit 80
-6, end of speed limit 80
-7, speed limit 100
-8, speed limit 120
-9, no overtaking
-10, no overtaking trucks
-11, crossroads
-12, main road
-13, give way
-14, stop and yeld
-15, stop
-16, no heavy vehicles
-17, no entry
-18, danger point
-19, curve left
-20, curve right
-21, double bend
-22, uneven road
-23, slippery road
-24, road narrows from right
-25, workers on the road
-26, traffic signal ahead
-27, pedestrians may cross
-28, children crossing
-29, bicycles crossing
-30, snow road
-31, animals crossing
-32, end of restrictions
-33, turn right
-34, turn left
-35, ahead only
-36, ahead or turn right
-37, ahead or turn left
-38, right pass
-39, left pass
-40, roundabout
-41, end of stop overtaking
-42, end of stop overtaking trucks
+Code,Sign
+0,speed limit 20
+1,speed limit 30
+2,speed limit 50
+3,speed limit 60
+4,speed limit 70
+5,speed limit 80
+6,end of speed limit 80
+7,speed limit 100
+8,speed limit 120
+9,no overtaking
+10,no overtaking trucks
+11,crossroads
+12,main road
+13,give way
+14,stop and yeld
+15,stop
+16,no heavy vehicles
+17,no entry
+18,danger point
+19,curve left
+20,curve right
+21,double bend
+22,uneven road
+23,slippery road
+24,road narrows from right
+25,workers on the road
+26,traffic signal ahead
+27,pedestrians may cross
+28,children crossing
+29,bicycles crossing
+30,snow road
+31,animals crossing
+32,end of restrictions
+33,turn right
+34,turn left
+35,ahead only
+36,ahead or turn right
+37,ahead or turn left
+38,right pass
+39,left pass
+40,roundabout
+41,end of stop overtaking
+42,end of stop overtaking trucks
