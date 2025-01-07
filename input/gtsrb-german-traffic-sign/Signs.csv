@@ -42,3 +42,22 @@ Code,Sign
 40,roundabout
 41,end of stop overtaking
 42,end of stop overtaking trucks
+43,speed limit 5
+44,speed limit 15
+45,no proceed straight
+46,no left turn
+47,no left and right turns
+48,no right turn
+49,no overtaking
+50,no u-turn
+51,no motor vehicles
+52,no honking
+53,end of maximum speed limit 40
+54,end of maximum speed limit 50
+55,turn left and/or right
+56,limited-access road
+57,honking allowed
+58,speed limit 40
+59,bicycles only
+60,u-turn
+61,no proceed straight and left turns
