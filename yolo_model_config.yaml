@@ -1,0 +1,75 @@
+path: c:\Users\polat\Desktop\Traffic-Signs-Detection
+train: yolo_dataset/images/train
+val: yolo_dataset/images/val
+nc: 70
+names:
+  - speed limit 20
+  - speed limit 30
+  - speed limit 50
+  - speed limit 60
+  - speed limit 70
+  - speed limit 80
+  - end of speed limit 80
+  - speed limit 100
+  - speed limit 120
+  - no overtaking
+  - no overtaking trucks
+  - crossroads
+  - main road
+  - give way
+  - stop and yeld
+  - stop
+  - no heavy vehicles
+  - no entry
+  - danger point
+  - curve left
+  - curve right
+  - double bend
+  - uneven road
+  - slippery road
+  - road narrows from right
+  - workers on the road
+  - traffic signal ahead
+  - pedestrians may cross
+  - children crossing
+  - bicycles crossing
+  - snow road
+  - animals crossing
+  - end of restrictions
+  - turn right
+  - turn left
+  - ahead only
+  - ahead or turn right
+  - ahead or turn left
+  - right pass
+  - left pass
+  - roundabout
+  - end of stop overtaking
+  - end of stop overtaking trucks
+  - speed limit 5
+  - speed limit 15
+  - no proceed straight
+  - no left turn
+  - no left and right turns
+  - no right turn
+  - no overtaking
+  - no u-turn
+  - no motor vehicles
+  - no honking
+  - end of maximum speed limit 40
+  - end of maximum speed limit 50
+  - turn left and/or right
+  - limited-access road
+  - honking allowed
+  - speed limit 40
+  - bicycles only
+  - u-turn
+  - no proceed straight and left turns
+  - no parking
+  - no stopping
+  - railroad crossing
+  - dead end
+  - falling rocks
+  - hospital
+  - no cycling
+  - two way traffic

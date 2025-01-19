@@ -1,5 +1,2 @@
 yolo_dataset/
 runs/
-annotations_updated.csv
-annotations.csv
-detections.csv
